@@ -15,7 +15,7 @@
   download code, run npm install, the npm run build, the npm run seed, then npm run start:dev, then npm run test (for e2e testing) or npm run cypress (for component testing)
 
   ## Usage
-  N/A
+  (https://app.screencastify.com/v3/watch/pExGjCertPotwraNREBK)
 
   ## License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
