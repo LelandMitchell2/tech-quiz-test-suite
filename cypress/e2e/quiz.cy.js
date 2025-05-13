@@ -8,7 +8,7 @@ describe('Tech Quiz', () => {
 
   // Test to check if the page loads with a start quiz button
   it('should load the page with a start quiz button', () => {
-    cy.visit('/')
+    // cy.visit('/')
 
     cy.get('div').first().within(() => {
       cy.get('button').contains('Start Quiz').should('be.visible')
